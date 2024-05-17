@@ -11,7 +11,7 @@
     <header>
       <h3 align-text="center" stlye="color:⚛️;"><strong>Physics student | Amateur programmer</strong></h3> 
     </header>
-    <p style="color:red;"><em>Hello everyone, I am Snow-Melody! I am completely new to coding and programming. <br>I am currently working through The Odin Project and Codecademy as a beginning point.<br></p>
+    <p style="color:red;"><em>Hello, world! I am Snow-Melody! I am new to coding and programming. <br>I am currently working through The Odin Project, focused on HTML, CSS, and JavaScript at the moment<br></p>
   <table text-align='center'>
     <tr><a href='codecademy.com/profiles/Snow-Melody.com'>Snow-Melody Codecademy</a></tr> 
   </table> 
